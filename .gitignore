@@ -1,0 +1,20 @@
+# CMake
+build/
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+compile_commands.json
+
+# macOS
+.DS_Store
+
+# IDE
+.idea/
+.vscode/settings.json
+
+# Compiled files
+*.o
+*.a
+*.dylib
+*.exe
+assets/models/game_asset.glb
